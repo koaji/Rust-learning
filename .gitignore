@@ -1,3 +1,7 @@
+# Visual studio code
+*.code-workspace
+.vscode/
+
 # Non cargo
 **/*.exe
 **/*.pdb
