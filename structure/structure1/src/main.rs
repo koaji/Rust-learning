@@ -19,7 +19,7 @@ fn show(user: &User){
 
 fn main () {
     // 構造体のインスタンス生成
-    let mut user1 = User {
+    let user1 = User {
         email: String::from("someone@example.com"),
         username: String::from("someusername123"),
         active: true,
